@@ -14,6 +14,8 @@ We've all been there one way or the other, whether it is a car, a domestic appli
 
 The trusted consumer magazine *InTheKnow* aims to provide you with well-researched and informed reports on issues you care about. And this is one of them.
 
+![alt text](/readme-images/magazine_logo.png)
+
 For this reason, we have a hired a data science team to help us provide you the best solutions.
 
 ### Fuel economy
