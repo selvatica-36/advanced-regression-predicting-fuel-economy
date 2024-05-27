@@ -75,7 +75,7 @@ class Plotter(StatisticalTests):
         cmap = sns.diverging_palette(220, 10, as_cmap=True)
         # Draw the heatmap
         sns.heatmap(corr, mask=mask, 
-                    square=True, linewidths=.5, annot=True, cmap=cmap)
+                    square=True, linewidths=.5, annot=True, cmap=cmap, vmin=-1, vmax=1)
         plt.yticks(rotation=0)
         plt.title('Correlation Matrix of all Numerical Variables')
         plt.show()
