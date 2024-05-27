@@ -6,11 +6,9 @@
 
 ## 1. The Situation
 
-Ever wondered which car to buy? 
-
-Whether you should save for a more expensive car that is perhaps mor energy-efficient, or just go for the cheaper one?
-
-Will the cheaper one be more expensive in the long term because of its energy usage?
+*Ever wondered which car to buy?*
+*Whether you should save for a more expensive car that is perhaps more **energy-efficient**, or just go for the cheaper one?*
+*Will the cheaper one be more expensive in the long term because of its energy usage?*
 
 We've all been there one way or the other, whether it is a car, a domestic appliance, or something else.
 
@@ -30,9 +28,9 @@ This is based on a small dataset (398 records) from 1970-1982, a period of huge 
 
 ### 2.1. What are the most important car features to predict mpg?
 
-- Car weight is a hugely important factor. Heavier cars are less fuel efficient.
-- Model year: as time goes on, cars get more efficient on average. 
-- Origin: american cars are the least fuel efficient on average in this dataset, whereas european and japanese cars tend to be more efficient. This makes historical sense:
+- **Car weight** is a hugely important factor. Heavier cars are less fuel efficient.
+- **Model year**: as time goes on, cars get more efficient on average. 
+- **Origin**: american cars are the least fuel efficient on average in this dataset, whereas european and japanese cars tend to be more efficient. This makes historical sense:
   - During this time, Japanese cars took a larger market share because they were more fuel efficient.
 
 ### 2.3. Our final model 
