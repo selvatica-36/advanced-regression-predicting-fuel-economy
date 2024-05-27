@@ -1,4 +1,4 @@
-# Predicting fuel efficiency 
+# Predicting Fuel Efficiency 
 [![Open in Visual Studio Code](https://img.shields.io/badge/Open%20in-Visual_Studio_Code-5C2D91?style=flat&logo=visual%20studio&logoColor=white)](https://open.vscode.dev/selvatica-36/predicting-fuel-economy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/selvatica-36/predicting-fuel-economy)  ![GitHub last commit](https://img.shields.io/github/last-commit/selvatica-36/predicting-fuel-economy)  ![issues](https://img.shields.io/github/issues/selvatica-36/predicting-fuel-economy.svg) ![Python version](https://img.shields.io/badge/Python%20version-3.12.3-FF9900?style=flat&logo=python&logoColor=white)
 
 ## Stack
