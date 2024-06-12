@@ -24,7 +24,7 @@ Fuel economy is a major factor in the cost of owning a car. We are studying the 
 
 ## 2. The Solution
 
-I have built a regression model that help us understand and predict a car's fuel efficiency (mileage, mpg) based on its characteristics. 
+I have built a regression model that help us understand and predict a car's fuel efficiency (mileage, mpg) based on its characteristics. The notebook can be found [here](https://github.com/selvatica-36/predicting-fuel-economy/blob/main/mileage_prediction.ipynb).
 
 This is based on a small dataset (398 records) from 1970-1982, a period of huge innovation in car's energy efficiency fue to the US Oil Crisis of 1971. As gas prices surged, car models with higher mileage (miles-per-gallon, mpg) were prefered by customers. The US Government also introduced regulations to drive the market towards more fuel-efficient engines during this period.
 
